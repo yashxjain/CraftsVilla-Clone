@@ -12,7 +12,8 @@ AND the collaborator's are-
 3) Bhabani Sankar Behera
 4) Yash Jain.
 
-Netlify Link-https://guileless-pastelito-b0fbc7.netlify.app/
+Netlify Link-https://animated-licorice-70b25a.netlify.app/
+
 Team-Lead Repo- https://github.com/harpreet-1/greedy-cream-9934.git
 
 
