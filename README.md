@@ -13,6 +13,8 @@ AND the collaborator's are-
 4) Yash Jain.
 
 Netlify Link-https://guileless-pastelito-b0fbc7.netlify.app/
+Team-Lead Repo- https://github.com/harpreet-1/greedy-cream-9934.git
+
 
 This is ecommerce brand specially for women where you can find products related to 
 "SKIN CARE",
